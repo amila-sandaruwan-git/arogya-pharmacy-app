@@ -87,7 +87,7 @@ export default function MockPaymentScreen({
           }}>
             <Text style={{ fontSize: 14, color: '#718096' }}>Amount</Text>
             <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#2C7A7B' }}>
-              ₹{amount.toFixed(2)}
+              Rs {amount.toFixed(2)}
             </Text>
           </View>
 
@@ -164,7 +164,7 @@ export default function MockPaymentScreen({
               onPress={handlePay}
             >
               <Text style={{ color: '#fff', fontSize: 16, fontWeight: '600' }}>
-                Pay ₹{amount.toFixed(2)}
+                Pay Rs {amount.toFixed(2)}
               </Text>
             </TouchableOpacity>
           </View>
