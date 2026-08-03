@@ -55,7 +55,7 @@ A full-featured pharmacy delivery application built with **React Native Expo**, 
 - **Notifications**: Expo Notifications
 
 ## 📸 Screenshots
-[!ScreenShots](https://drive.google.com/drive/folders/1up51vho_Hvb7Gzr0lpz-nHj4Djk1Ch3B?usp=drive_link)]
+[ScreenShots](https://drive.google.com/drive/folders/1up51vho_Hvb7Gzr0lpz-nHj4Djk1Ch3B?usp=drive_link)
 
 ## 📦 Installation
 
