@@ -55,28 +55,7 @@ A full-featured pharmacy delivery application built with **React Native Expo**, 
 - **Notifications**: Expo Notifications
 
 ## 📸 Screenshots
-
-<!-- Replace the placeholder URLs with your actual screenshot URLs -->
-<https://drive.google.com/file/d/1c9EvK2CuSXhMe3ptIWCPb407A1CdUOPg/view?usp=sharing>
-### User Screens
-
-| Login | Home | Product Details |
-|-------|------|-----------------|
-| ![Login](https://drive.google.com/file/d/1c9EvK2CuSXhMe3ptIWCPb407A1CdUOPg/view?usp=sharing) | ![Home](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Home+Screen) | ![Product](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Product+Details) |
-
-| Cart | Checkout | Deliveries |
-|------|----------|------------|
-| ![Cart](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Cart+Screen) | ![Checkout](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Checkout) | ![Deliveries](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Deliveries) |
-
-| Chat | Profile | Notifications |
-|------|---------|---------------|
-| ![Chat](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Chat) | ![Profile](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Profile) | ![Notifications](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Notifications) |
-
-### Pharmacist Screens
-
-| Dashboard | Orders | Add Items |
-|-----------|--------|-----------|
-| ![Dashboard](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Pharmacist+Dashboard) | ![Orders](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Pharmacist+Orders) | ![Add Items](https://via.placeholder.com/300x600/2C7A7B/FFFFFF?text=Add+Items) |
+[!ScreenShots](https://drive.google.com/drive/folders/1up51vho_Hvb7Gzr0lpz-nHj4Djk1Ch3B?usp=drive_link)]
 
 ## 📦 Installation
 
