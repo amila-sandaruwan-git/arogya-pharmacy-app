@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Arogya",
+    "slug": "arogya",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2C7A7B"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.arogya.pharmacy",
+      "icon": {
+        "1024": "./assets/icon.png"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2C7A7B"
+      },
+      "package": "com.arogya.pharmacy"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6cc6d80c-3e57-4aef-9012-2b46b02eba42"
+      }
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Arogya to access your photos to upload product images and prescriptions.",
+          "cameraPermission": "Allow Arogya to access your camera to take photos."
+        }
+      ]
+    ]
+  }
+}
